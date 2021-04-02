@@ -1,0 +1,145 @@
+*{
+    outline: 0 !important;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #e5e5e5 !important; 
+}
+
+/* DIV's */
+.effect1{
+    animation: effect1 3s;
+}
+@keyframes effect1{
+    0%{
+        transform: translateX(2000px);
+    }
+    95%{
+        transform: translateX(-20px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
+
+.effect2{
+    animation: effect2 3s ease-in-out;
+}
+@keyframes effect2{
+    0%{
+        transform: translateX(-2000px);
+    }
+    95%{
+        transform: translateX(20px);
+    }
+    100%{
+        transform: translaX(0);
+    }
+}
+
+.effect3{
+    animation: effect3 3s ease-in-out;
+}
+@keyframes effect3{
+    0%{
+        transform: translateY(2000px);
+    }
+    95%{
+        transform: translateY(-20px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+
+
+
+.shadow-custom{
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.25);
+}
+
+.rounded-border{
+    border-radius: 10px;
+}
+
+.rounded-border-left{
+    border-radius: 10px 0px 0px 10px;
+}
+
+.rounded-border-right{
+    border-radius: 0px 10px 10px 0px;
+}
+
+/* FORM */
+.bg-new-white{
+    background-color: #fafafa;
+}
+.title-form{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    color: #6f6f6f;
+}
+
+.label-style{
+    font-size: 14px;
+    color: #6f6f6f;
+}
+
+.input-style{
+    font-size: 14px;
+    color: #6f6f6f;
+    background-color: #fafafa;
+    width: 100%;
+    border-radius: none;
+    border: none;
+    border-bottom: 1px solid #c5c5c5;  
+    
+    transition: 0.3s;
+}
+.input-style:focus{
+    border-bottom: 1px solid #828282;  
+}
+
+.input-style::placeholder{
+    color: rgba(111, 111, 111, 0.5);
+}
+
+.required-input{
+    color: #9c1000;
+}
+
+/* CASES */
+
+@media(max-width: 1000px){
+    .case4{
+        border-radius: 0 !important;
+    }
+    .case2{
+        border-top-right-radius: 10px;
+    }
+}
+.div-cases{
+    text-align: center;    
+    /* border: 1px solid lightcoral; */
+}
+
+.title-cases{
+    font-size: 20px;
+    font-weight: bold;
+    color: #6f6f6f;
+}
+
+.number-cases{
+    font-size: 40px;
+    font-weight: 900;
+    /* text-shadow: 0px 0px 2px rgba(0,0,0,0.25); */
+}
+
+/* GRAPHICS */
+.no-button{
+    border: none;
+    background: none;
+}

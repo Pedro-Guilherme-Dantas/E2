@@ -1,0 +1,4 @@
+TotalInfectados->32
+MedIdade->20.31
+MedIdadeInfectados->22.22
+Total->58

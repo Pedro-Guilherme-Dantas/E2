@@ -1,0 +1,59 @@
+data_coletada,historico_infecção,cidade,idade,grupo_de_risco,situação_vacina
+2021-02-10,SIM,"Jucurutu",18,NÃO,NULA
+2021-02-10,NÃO,"Caicó",17,NÃO,NULA
+2021-02-10,NÃO,"Caicó",21,NÃO,VACINADO
+2021-02-10,NÃO,"Cruzeta",19,NÃO,NULA
+2021-02-10,SIM,"São Fernando",18,SIM,NULA
+2021-02-10,SIM,"Jucurutu",17,NÃO,NULA
+2021-02-10,NÃO,"Jucurutu",17,NÃO,NULA
+2021-02-10,SIM,"Caicó",20,NÃO,NULA
+2021-02-11,NÃO,"Jucurutu",17,NÃO,NULA
+2021-02-11,NÃO,"Currais Novos",17,SIM,NULA
+2021-02-11,NÃO,"São José do Seridó",17,NÃO,NULA
+2021-02-11,SIM,"Jardim de Piranhas",16,NÃO,NULA
+2021-02-11,NÃO,"Caicó",20,NÃO,NULA
+2021-02-11,NÃO,"Cruzeta",15,NÃO,NULA
+2021-02-12,NÃO,"Jardim do Seridó",15,NÃO,NULA
+2021-02-12,SIM,"Caicó",17,NÃO,NULA
+2021-02-12,SIM,"São João do Sabuji",15,NÃO,NULA
+2021-02-12,SIM,"Jucurutu",22,NÃO,NULA
+2021-02-12,NÃO,"Caicó",16,SIM,VACINADO
+2021-02-13,NÃO,"Caicó",17,NÃO,NULA
+2021-02-13,SIM,"Acari",20,NÃO,NULA
+2021-02-13,SIM,"Acari",17,SIM,NULA
+2021-02-13,SIM,"Caicó",25,NÃO,NULA
+2021-02-13,NÃO,"Caicó",13,NÃO,NULA
+2021-02-14,NÃO,"Jucurutu",15,NÃO,NULA
+2021-02-14,NÃO,"Caicó",17,NÃO,NULA
+2021-02-14,NÃO,"Jucurutu",21,NÃO,NULA
+2021-02-14,SIM,"Caicó",20,NÃO,NULA
+2021-02-14,NÃO,"Caicó",19,NÃO,NULA
+2021-02-14,NÃO,"Jucurutu",19,NÃO,NULA
+2021-02-14,NÃO,"Cruzeta",20,NÃO,NULA
+2021-02-24,SIM,"Currais Novos",22,NÃO,VACINADO
+2021-02-24,SIM,"Currais Novos",20,NÃO,NULA
+2021-02-24,SIM,"São João do Sabuji",18,SIM,VACINADO
+2021-03-05,NÃO,"Currais Novos",17,NÃO,NULA
+2021-03-12,NÃO,"São Vicente",23,SIM,NULA
+2021-03-12,SIM,"São Vicente",23,SIM,NULA
+2021-02-13,SIM,"Caicó",17,NÃO,NULA
+2021-02-24,SIM,"São João do Sabuji",24,SIM,NULA
+2021-02-24,SIM,"São João do Sabuji",18,SIM,NULA
+2021-02-24,SIM,"Currais Novos",22,NÃO,VACINADO
+2021-02-24,SIM,"Currais Novos",20,NÃO,NULA
+2021-02-24,SIM,"Currais Novos",22,NÃO,VACINADO
+2021-02-24,SIM,"Currais Novos",20,NÃO,NULA
+2021-03-16,SIM,"Currais Novos",17,SIM,VACINADO
+2021-03-16,SIM,"Caicó",20,SIM,VACINADO
+2021-03-16,NÃO,"Parelhas",25,NÃO,NULA
+2021-03-16,NÃO,"Cerro Corá",22,NÃO,VACINADO
+2021-03-16,SIM,"Cerro Corá",23,NÃO,NULA
+2021-03-16,NÃO,"Santana do Matos",14,SIM,VACINADO
+2021-03-16,SIM,"Serra Negra do Norte",23,NÃO,VACINADO
+2021-03-16,NÃO,"Ipueira",16,NÃO,NULA
+2021-03-16,SIM,"Jardim do Seridó",19,NÃO,NULA
+2021-03-17,NÃO,"Jucurutu",18,NÃO,NULA
+2021-03-17,SIM,"Jucurutu",19,SIM,VACINADO
+2021-03-30,SIM,"Florânia",99,NÃO,NULA
+2021-03-30,SIM,"Caicó",18,NÃO,NULA
+2021-04-02,SIM,"Cruzeta",22,NÃO,NULA
